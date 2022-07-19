@@ -73,8 +73,9 @@ body {
 }
 
 footer a{
-    margin: 47%;
     text-decoration: none;
     text-transform: uppercase;
     font-family: "Roboto", sans-serif;
+    background-color:#4d58de;
+    color: #ffff;
 }
